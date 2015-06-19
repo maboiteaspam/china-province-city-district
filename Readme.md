@@ -22,6 +22,7 @@ var districts = china.query('咸阳市');
  - https://libraries.io/npm/provincecityinchina/1.0.5
  - https://github.com/substack/provinces
  - https://github.com/clemsos/d3-china-map
+ - https://github.com/qianjiahao/cn-province-city
 
 ## License 
 
