@@ -15,6 +15,14 @@ var citys = china.query('陕西省');
 var districts = china.query('咸阳市');
 ```
 
+## See also
+ 
+ - https://en.wikipedia.org/wiki/Provinces_of_China
+ - http://www.ccb.com/cn/OtherResource/bankroll/html/code_help.html 
+ - https://libraries.io/npm/provincecityinchina/1.0.5
+ - https://github.com/substack/provinces
+ - https://github.com/clemsos/d3-china-map
+
 ## License 
 
 (The MIT License)
